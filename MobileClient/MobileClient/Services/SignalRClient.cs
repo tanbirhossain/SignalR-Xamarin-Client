@@ -41,7 +41,7 @@ namespace MobileClient.Services
            
         }
 
-      
+       
 
         /// <summary>
         /// Initializes SignalR.
